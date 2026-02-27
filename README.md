@@ -71,7 +71,18 @@ python skysaver_model.py
 # OR
 jupyter notebook skysaver_notebook.ipynb
 ```
+## Results
 
+| Metric | Score |
+|--------|-------|
+| R² Score | 98.49% |
+| MAE | 1078.06 |
+| MSE | 7,771,622.32 |
+| RMSE | 2787.76 |
+
+- **Best Model:** Random Forest Regression
+- The model explains **98.49% of variance** in airline ticket prices
+- Key factors influencing price: travel class, days left, airline, and number of stops
 ## Future Enhancements
 - Incorporating deep learning models for better accuracy
 - Expanding dataset with global airline data
