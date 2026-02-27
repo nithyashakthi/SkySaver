@@ -83,5 +83,5 @@ jupyter notebook skysaver_notebook.ipynb
 Feel free to contribute by submitting pull requests or opening issues.
 
 ## Contact
-For any questions, reach out via [LinkedIn](https://www.linkedin.com/in/nithya-shakthi-b-90135a31b/) or email: bnihya808@gmail.com.
+For any questions, reach out via [LinkedIn](https://www.linkedin.com/in/nithya-shakthi-b-90135a31b/) or email: bnithya808@gmail.com.
 
